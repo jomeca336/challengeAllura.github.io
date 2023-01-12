@@ -1,0 +1,121 @@
+#logo {
+  height: 48px;
+  width: 40px;
+  margin-top: 40px;
+
+  margin-left: 84px;
+
+  background: #f3f3f3;
+}
+
+
+
+#input2 {
+  width: 577px;
+  height: 48px;
+margin-top: 168px;
+margin-left: 240px;
+margin-right: 623px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+color: #1625f3e7;
+
+
+}
+
+#encriptar {
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px;
+
+  width: 328px;
+  height: 67px;
+  background: #32b5dd;
+  border-radius: 24px;
+margin-top: 600px;
+
+  margin-left: 240px;
+
+  margin-right: 872px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  text-align: center;
+}
+
+
+
+
+#desencriptar {
+  box-sizing: border-box;
+  
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px;
+  gap: 8px;
+  width: 328px;
+  height: 67px;
+  background: #92d2dd;
+  border: 1px solid #0a3871;
+  border-radius: 24px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+
+  margin-left: 592px;
+
+  margin-right: 520px;
+margin-top: -90px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+}
+
+
+
+#container {
+
+  border-radius: 32px;
+}
+
+
+#BtnCopiar {
+
+  box-sizing: border-box;
+  
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px;
+  gap: 8px;
+  width: 328px;
+  height: 67px;
+  background: #92d2dd;
+  border: 1px solid #0a3871;
+  border-radius: 24px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+
+  margin-left: 56px;
+
+  margin-right: 35px;
+margin-top: 80px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  
+}

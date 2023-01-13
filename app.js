@@ -8,7 +8,7 @@ $(function () {
 function encriptar() {
   $("#encriptar").click(function (e) {
     var textoAencriptar = $("#input2").val();
-
+var prueba=""
     if (textoAencriptar == " ") {
     } else {
       $("#img").hide();
